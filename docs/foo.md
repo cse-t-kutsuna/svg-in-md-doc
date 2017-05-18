@@ -1,6 +1,7 @@
 # Foo
 
 ## svg image
-![](foo.png)
 ![](foo.svg)
 
+## png image
+![](foo.png)
